@@ -1,6 +1,6 @@
 [submodule "components/lvgl_esp32_drivers"]
 	path = components/lvgl_esp32_drivers
-	url = https://github.com/hiruna/lvgl_esp32_drivers.git
+	url = https://github.com/Predkii/lvgl_esp32_drivers.git
 	branch = develop/lvgl_8.3.7_idf_5.2
 [submodule "components/lvgl"]
 	path = components/lvgl
